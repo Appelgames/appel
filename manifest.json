@@ -1,0 +1,18 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Appel",
+  "orientation": "any",
+  "scope": "https://appelgames.github.io/appel/",
+  "start_url": "https://appelgames.github.io/appel/",
+  "theme_color": "#000000",
+  "id": "com.themadpunter.appel",
+  "description": "A mobile port of the Scratch game Appel.",
+  "lang": "en",
+  "icons": [
+  {
+    "src": "icon.png"
+  }
+]
+}
